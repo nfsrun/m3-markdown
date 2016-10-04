@@ -7,4 +7,5 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 See `complete` branch for an example.
 
 > "I don't have a laptop so I have to fork off of you dude." - Davis Huynh
+
 More information from this dude here. [here](https://www.facebook.com/davis.huynh?fref=ts). 
